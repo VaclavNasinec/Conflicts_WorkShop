@@ -1,8 +1,8 @@
 public class Cheer {
     public static void main(String[] args) {
-        cheer("JS");
+        cheer("Fuckin DA Java ", 69);
     }
-    public static void cheer(String name){
-        System.out.println(name);
+    public static void cheer(String name, int age){
+        System.out.println(name + age);
     }
 }
