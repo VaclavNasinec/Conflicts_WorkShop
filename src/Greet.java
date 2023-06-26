@@ -1,8 +1,8 @@
 public class Greet {
     public static void main(String[] args) {
-    greet("Greetings");
+    greet("Greetings", "Arina");
     }
-    public static void greet(String greet){
-        System.out.println(greet);
+    public static void greet(String greet, String name){
+        System.out.println(greet + name);
     }
 }
