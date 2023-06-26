@@ -1,9 +1,8 @@
 public class Future {
     public static void main(String[] args) {
-        print("Kohout", "Krysa");
+        print("Epic Fail");
     }
-    public static void print(String one, String two){
-        System.out.println(one);
-        System.out.println(two);
+    public static void print(String param){
+        System.out.println("Your future looks like" + param);
     }
 }
