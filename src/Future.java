@@ -1,6 +1,6 @@
 public class Future {
     public static void main(String[] args) {
-        print("Kohout");
+        print("Krysa");
     }
     public static void print(String string){
         System.out.println(string);
